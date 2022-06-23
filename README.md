@@ -16,9 +16,12 @@
 </div>
 
 # Stats
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=viachesslove)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViaChessLove)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viachesslove)](https://github.com/anuraghazra/github-readme-stats)
 # CodeWars
 [![codewars](https://www.codewars.com/users/ViaChessLove/badges/large)](https://www.codewars.com/users/ViaChessLove)
+
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
