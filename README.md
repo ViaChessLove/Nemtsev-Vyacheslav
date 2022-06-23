@@ -14,10 +14,13 @@
 <div>
     Also Redux-toolkit, Material ui, styled components, ethereum API etc.
 </div>
-
+#Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViaChessLove)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=ViaChessLove=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?user=ViaChessLove=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div></div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=ViaChessLove)](https://github.com/ViaChessLove/github-readme-stats)
+<div></div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?user=ViaChessLove)](https://github.com/ViaChessLove/github-readme-stats)
+<div></div>
 [![codewars](https://www.codewars.com/users/ViaChessLove/badges/large)]([https://www.codewars.com/users/username](https://www.codewars.com/users/ViaChessLove))
 
 [![Footer](https://github.com/ViaChessLove/Nemtsev-Vyacheslav/blob/31652947b52bdeff67ba09ffad312e9a3318a0b0/assets/codwars.png)](https://www.codewars.com/users/ViaChessLove)
