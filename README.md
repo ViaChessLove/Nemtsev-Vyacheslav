@@ -1,5 +1,5 @@
 
-node updater.js ${{ github.repository_owner }} <themeName>
+
 # Nemtsev Vyacheslav
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+frontend+developer)](https://git.io/typing-svg)
 
