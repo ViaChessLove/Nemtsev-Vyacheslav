@@ -21,5 +21,5 @@
 <div></div>
 [![ViaChessLove's GitHub stats](https://github-readme-stats.vercel.app/api?user=ViaChessLovea)](https://github.com/ViaChessLove/github-readme-stats)
 # CodeWars
-[![codewars](https://www.codewars.com/users/ViaChessLove/badges/large)]([https://www.codewars.com/users/ViaChessLove](https://www.codewars.com/users/ViaChessLove))   
+[![codewars](https://www.codewars.com/users/ViaChessLove/badges/large)](https://www.codewars.com/users/ViaChessLove)
 
