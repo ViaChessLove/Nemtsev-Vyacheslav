@@ -1,7 +1,5 @@
 # Nemtsev Vyacheslav
-<div style={{ top:0, left: 0; position: fixed}}>
-бяка
-</div>
+
 
 # I'm a frontend developer
 
