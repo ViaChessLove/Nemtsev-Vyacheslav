@@ -1,7 +1,5 @@
 # Nemtsev Vyacheslav
-React dev
-
-# I'm a frontend developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=#+I+am+frontend+developer)](https://git.io/typing-svg)
 
 # Now i learning web3 and blockchain
 # Skills:  
