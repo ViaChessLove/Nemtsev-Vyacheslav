@@ -6,8 +6,8 @@
 # Skills:  
 ![React](https://img.shields.io/badge/-React-purple?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux)
-![Redux-toolkit](https://img.shields.io/badge/-Redux-toolkit-purple?style=for-the-badge&logo=redux-toolkit)
-![Material UI](https://img.shields.io/badge/-MUI-toolkit-purple?style=for-the-badge&logo=mui)
+![Redux-toolkit](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux)
+![Material UI](https://img.shields.io/badge/-MaterialUI-toolkit-purple?style=for-the-badge&logo=mui)
 ![JS](https://img.shields.io/badge/-JavaScript-toolkit-purple?style=for-the-badge&logo=js)
 ![TS](https://img.shields.io/badge/-TypeScript-toolkit-purple?style=for-the-badge&logo=typescript)
 
