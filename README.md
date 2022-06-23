@@ -18,9 +18,9 @@
 # Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViaChessLove)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viachesslove)](https://github.com/viachesslove/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viachesslove&hide=python)](https://github.com/viachesslove/github-readme-stats)
 <div></div>
-[![ViaChessLove's GitHub stats](https://github-readme-stats.vercel.app/api?user=ViaChessLovea)](https://github.com/ViaChessLove/github-readme-stats)
+[![ViaChessLove's GitHub stats](https://github-readme-stats.vercel.app/api?user=ViaChessLove)](https://github.com/ViaChessLove/github-readme-stats)
 # CodeWars
 [![codewars](https://www.codewars.com/users/ViaChessLove/badges/large)](https://www.codewars.com/users/ViaChessLove)
 
