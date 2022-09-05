@@ -3,7 +3,6 @@
 # Nemtsev Vyacheslav
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+frontend+developer)](https://git.io/typing-svg)
 
-# Now i learning web3 and blockchain
 # Skills:  
 ![React](https://img.shields.io/badge/-React-purple?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux)
