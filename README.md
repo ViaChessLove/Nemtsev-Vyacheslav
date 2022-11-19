@@ -15,7 +15,7 @@
 
 
 <div>
-    Also Redux-toolkit, Material ui, styled components, ethereum API etc.
+    Also: CSS-in-JS, SSR
 </div>
 
 # Stats
