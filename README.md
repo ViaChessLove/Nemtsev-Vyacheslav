@@ -11,7 +11,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-purple?style=for-the-badge&logo=css)
 ![SASS](https://img.shields.io/badge/-SCSS-purple?style=for-the-badge&logo=SASS)
 ![GIT](https://img.shields.io/badge/-GIT-purple?style=for-the-badge&logo=git)
-![VUE](https://img.shields.io/badge/-VUE-purple?style=for-the-badge&logo=vue)
+![VUE](https://img.shields.io/badge/-VUEJS-purple?style=for-the-badge&logo=vuejs)
 
 
 <div>
