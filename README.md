@@ -5,6 +5,7 @@
 
 # Skills:  
 ![React](https://img.shields.io/badge/-React-purple?style=for-the-badge&logo=react)
+![Webpack](https://img.shields.io/badge/-Webpack-purple?style=for-the-badge&logo=webpack)
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-purple?style=for-the-badge&logo=TypeScript)
