@@ -13,6 +13,7 @@
 ![SASS](https://img.shields.io/badge/-SCSS-purple?style=for-the-badge&logo=SASS)
 ![GIT](https://img.shields.io/badge/-GIT-purple?style=for-the-badge&logo=git)
 ![VUE](https://img.shields.io/badge/-VUEJS-purple?style=for-the-badge&logo=vuejs)
+![EXPRESS](https://img.shields.io/badge/-EXPRESS-purple?style=for-the-badge&logo=EXPRESS)
 
 
 <div>
