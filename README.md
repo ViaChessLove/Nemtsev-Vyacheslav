@@ -17,7 +17,7 @@
 
 
 <div>
-    Also: CSS-in-JS, SSR
+    Btw i rly like to use terminal git
 </div>
 
 # Stats
